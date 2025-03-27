@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1743048069 source:c:\users\user\documents\a11.24.15940\cpp semester 2\semester 2.cpp\pertemuan 5\pustaka.cpp
+	"header.h"
+
+1743048088 c:\users\user\documents\a11.24.15940\cpp semester 2\semester 2.cpp\pertemuan 5\header.h
+	<iostream>
+	<algorithm>
+
+1743047978 source:c:\users\user\documents\a11.24.15940\cpp semester 2\semester 2.cpp\pertemuan 5\main.cpp
+	"header.h"
+
